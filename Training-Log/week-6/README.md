@@ -1,42 +1,70 @@
-# 📅 Week 6 (23 Feb - 1 Mar)
+# Getting Started with Create React App
 
-### 🚀 Work Done
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* Worked on a live IoT project UI using React
-* Developed a complete template structure for the project
-* Built multiple sections like Navbar, Hero, Features, Products, FAQ, Testimonials, and Footer
-* Integrated all components into a main Home page
-* Focused on reusable and scalable component structure
+## Available Scripts
 
-### 📚 Learnings
+In the project directory, you can run:
 
-* Real-world project structure using React
-* Component-based architecture at a larger scale
-* Managing multiple components and organizing folders properly
-* Improved understanding of UI flow and section-wise development
+### `npm start`
 
-### 💻 Project
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-* IoT UI Live Project (React Template Development)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### 🔗 Project Info
+### `npm test`
 
-* Developed a full UI template for an IoT-based application
-* Includes multiple sections and product components
-* Built using React and modular component approach
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### ⚠️ Challenges
+### `npm run build`
 
-* Managing a large number of components
-* Structuring the project properly
-* Ensuring smooth integration of all sections
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### 🛠️ Solutions
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* Divided UI into small reusable components
-* Followed proper folder structure
-* Integrated components step by step into the main page
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### 🎯 Outcome
+### `npm run eject`
 
-Successfully developed a complete UI template for a live IoT project and gained hands-on experience in real-world React development.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
