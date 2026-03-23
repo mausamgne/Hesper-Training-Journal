@@ -1,42 +1,70 @@
-# 📅  Week 5 :16 Feb – 22 Feb ✅
+# Getting Started with Create React App
 
-### 🚀 Work Done
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-* Worked on a UI template-based project using React
-* Built multiple sections such as Hero, Features, Blog, Footer, and Newsletter
-* Practiced component-based architecture in React
-* Worked on a live project under mentor guidance
-* Explored Next.js basics and its project structure
+## Available Scripts
 
-### 📚 Learnings
+In the project directory, you can run:
 
-* Understanding of reusable components in React
-* Improved knowledge of project structuring and file organization
-* Basics of Next.js (routing, structure, and usage)
-* Better understanding of UI development and layout design
+### `npm start`
 
-### 💻 Project
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-* Template-based React Project (UI Sections Development)
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-### 🔗 Project Info
+### `npm test`
 
-* Project is based on a modern UI template
-* Includes multiple sections like Hero, Features, Blog, Footer, etc.
-* Built using React and component-based approach
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### ⚠️ Challenges
+### `npm run build`
 
-* Understanding how to convert template design into React components
-* Managing multiple components and structure
-* Styling consistency across sections
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-### 🛠️ Solutions
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-* Broke template into smaller reusable components
-* Followed structured folder organization
-* Took guidance from mentor and practiced implementation
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### 🎯 Outcome
+### `npm run eject`
 
-Successfully built a template-based React project and gained hands-on experience in component structuring, UI development, and basics of Next.js.
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
