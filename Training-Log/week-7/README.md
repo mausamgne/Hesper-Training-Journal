@@ -1,42 +1,36 @@
-# 📅 Week 7 (2 Mar - 8 Mar)
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-### 🚀 Work Done
+## Getting Started
 
-* Started learning Next.js fundamentals
-* Converted the existing IoT UI project from React to Next.js
-* Implemented routing and project structure using Next.js
-* Rebuilt UI components in Next.js environment
-* Worked on improving performance and structure of the project
+First, run the development server:
 
-### 📚 Learnings
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-* Basics of Next.js (routing, folder structure, pages)
-* Difference between React and Next.js
-* Understanding of server-side rendering concepts (basic level)
-* Better project structuring using Next.js
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-### 💻 Project
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-* IoT UI Project (React → Next.js Conversion)
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-### 🔗 Project Info
+## Learn More
 
-* Migrated an existing React-based UI project to Next.js
-* Implemented multiple pages and routing
-* Improved structure and scalability of the project
+To learn more about Next.js, take a look at the following resources:
 
-### ⚠️ Challenges
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-* Understanding Next.js folder structure and routing
-* Converting React components into Next.js format
-* Managing project setup and dependencies
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-### 🛠️ Solutions
+## Deploy on Vercel
 
-* Studied Next.js concepts step by step
-* Followed documentation and mentor guidance
-* Converted components gradually and tested frequently
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-### 🎯 Outcome
-
-Successfully learned Next.js basics and converted a real-world IoT UI project from React to Next.js, gaining hands-on experience in modern web development.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
